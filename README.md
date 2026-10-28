@@ -5,10 +5,10 @@
 I'm a Computer Science and Mathematics freshman passionate about turning ideas into clean, functional Python applications and solving complex problems from the ground up.
 
 ### Tech Stack & Tools
-Languages: Python
-GUI Development: Tkinter
-Core Concepts: Object-oriented programming, string manipulation, list indexing, control loops, and software logic
-Tools & Environment: Git, GitHub, Online Python compiler
+* **Languages:** Python
+* **GUI Development:** Tkinter
+* **Core Concepts:** Object-oriented programming, string manipulation, list indexing, control loops, and software logic
+* **Tools & Environment:** Git, GitHub, Online Python compiler
 
 ### Availability
-Available for Freelance & Remote Work**
+**Available for Freelance & Remote Work**
